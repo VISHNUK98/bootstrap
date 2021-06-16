@@ -1,0 +1,23 @@
+
+
+.card{
+    display: inline-block;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.overlay { 
+    color:#fff;
+    position:absolute;
+    z-index:12;
+    top:50%;
+    left:0;
+    width:100%;
+    text-align: center;
+  }
+  .footer-copyright{
+      color: white;
+  }
+	
+	
+	
